@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color_1"
+        android:textSize="@dimen/text14"
+        tools:ignore="SpUsage" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/simcard_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:backgroundTint="#fafafa"
+            android:text="Sim 1"
+            android:textColor="@color/color_1"
+            android:textSize="@dimen/text13"
+            tools:ignore="SpUsage" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/simcard_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:backgroundTint="#fafafa"
+            android:text="Sim 2"
+            android:textColor="@color/color_1"
+            android:textSize="@dimen/text13"
+            tools:ignore="SpUsage" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

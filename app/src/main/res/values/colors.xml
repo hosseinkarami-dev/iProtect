@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Teal 500 -->
+    <color name="colorPrimary">#019762</color>
+    <color name="colorSecondary">#054362</color>
+    <color name="background">#f3f6f6</color>
+    <!-- Teal 600-->
+    <color name="colorPrimaryDark">#019762</color>
+    <!-- Deep orange A200 -->
+    <color name="colorAccent">#019762</color>
+
+    <color name="dividerColor">#d1d1d1</color>
+    <color name="red">#f03625</color>
+
+    <color name="color_1">#16233f</color>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">آی پروتکت</string>
+
+    <string name="menu_search">جستجوی اپلیکیشن</string>
+    <string name="menu_network">باز کردن تنظبمات شبکه</string>
+    <string name="menu_refresh">نوسازی اپلیکیشن ها</string>
+    <string name="menu_whitelist_wifi">مسدودسازی پیشفرض شبکه وایفای</string>
+    <string name="menu_whitelist_other">مسدود سازی پیشفرض دیتا</string>
+    <string name="menu_block_bluetooth">مسدود سازی بلوتوث</string>
+    <string name="menu_reset_wifi">نوسازی تنظیمات وایفای</string>
+    <string name="menu_reset_other">نوسازی تنظیمات دیتای موبایل</string>
+    <string name="menu_dark">استفاده از قالب مشکی</string>
+    <string name="menu_vpn_settings">باز کردن تنظیمات وی پی ان</string>
+    <string name="menu_about">درباره ما</string>
+    <string name="msg_sure">تاییدیه</string>
+    <string name="phone_state_permission_not_allowed">دسترسی به وضعیت گوشی به اپلیکیشن داده نشده است.</string>
+    <string name="add">افزودن</string>
+    <string name="add_simcard">افزودن سیم کارت</string>
+    <string name="add_iccid_of_simcard">لطفا ICCID سیم کارت را وارد کنید.</string>
+    <string name="ok">تایید</string>
+    <string name="cancel">انصراف</string>
+    <string name="menu_simcards">مدیریت سیم کارت ها</string>
+    <string name="remove">حذف</string>
+    <string name="guide">راهنما</string>
+    <string name="simcard_info">اطلاعات سیم کارت ها</string>
+    <string name="simcard_guide">در صورتی که هیچ سیم کارتی به این صفحه افزوده نشود، به صورت پیشفرض همه سیم کارت ها فعال هستند.</string>
+    <string name="manage_simcards">مدیریت سیم کارت ها</string>
+    <string name="iccid_must_be_20_length">ICCID باید 20 رقمی باشد.</string>
+    <string name="iccid_already_added">این سیم کارت قبلا ثبت شده است.</string>
+</resources>

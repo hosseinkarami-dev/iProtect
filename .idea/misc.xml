@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Android/MyApplication10/app/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Projects/Android/MyApplication10/app/src/main/res/layout/main.xml" value="0.2558876811594203" />
+        <entry key="..\:/Projects/Android/MyApplication10/app/src/main/res/layout/rule.xml" value="0.2558876811594203" />
+        <entry key="..\:/Projects/Android/iProtect/app/src/main/res/drawable/other.xml" value="0.203125" />
+        <entry key="..\:/Projects/Android/iProtect/app/src/main/res/drawable/other_off.xml" value="0.19322916666666667" />
+        <entry key="..\:/Projects/Android/iProtect/app/src/main/res/drawable/other_on.xml" value="0.203125" />
+        <entry key="..\:/Projects/Android/iProtect/app/src/main/res/drawable/wifi_off.xml" value="0.19322916666666667" />
+        <entry key="..\:/Projects/Android/iProtect/app/src/main/res/layout/actionbar.xml" value="0.18697916666666667" />
+        <entry key="..\:/Projects/Android/iProtect/app/src/main/res/layout/activity_main.xml" value="0.21240942028985507" />
+        <entry key="..\:/Projects/Android/iProtect/app/src/main/res/layout/activity_simcard.xml" value="0.17831813576494426" />
+        <entry key="..\:/Projects/Android/iProtect/app/src/main/res/layout/rule.xml" value="0.21240942028985507" />
+        <entry key="..\:/Projects/Android/iProtect/app/src/main/res/layout/simcard_add_layout.xml" value="0.15715579710144928" />
+        <entry key="..\:/Projects/Android/iProtect/app/src/main/res/layout/simcard_item.xml" value="0.1897644927536232" />
+        <entry key="..\:/Projects/Android/iProtect/app/src/main/res/menu/main.xml" value="0.19427083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
